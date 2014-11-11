@@ -1,6 +1,8 @@
 eyerest-systray
 ===============
 
+[![Build Status](https://travis-ci.org/zlbruce/eyerest-systray.svg?branch=master)](https://travis-ci.org/zlbruce/eyerest-systray)
+
 A systray for [eyerest](https://github.com/zlbruce/eyerest)
 
 you must install eyerest first
