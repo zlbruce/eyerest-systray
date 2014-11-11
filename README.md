@@ -8,6 +8,9 @@ you must install eyerest first
 ##Depends
 ```
 gtk+-3.0-dev || gtk+2.0-dev
+glib-2.0
+gio-2.0
+gio-unix-2.0
 ```
 
 ##Build
