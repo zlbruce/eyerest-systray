@@ -1,0 +1,7 @@
+language: c
+compiler:
+- gcc
+- clang
+install: sudo apt-get -y install cmake make libglib2.0-dev libgtk-3-dev
+# Change this to your needs
+script: cmake . && make
